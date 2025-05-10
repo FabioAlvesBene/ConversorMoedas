@@ -1,0 +1,32 @@
+[
+  {
+    "Origem": "USD",
+    "Destino": "BRL",
+    "ValorOriginal": 100.0,
+    "ValorConvertido": 561.86
+  },
+  {
+    "Origem": "USD",
+    "Destino": "ARS",
+    "ValorOriginal": 50.0,
+    "ValorConvertido": 58600.0
+  },
+  {
+    "Origem": "JPY",
+    "Destino": "BRL",
+    "ValorOriginal": 80.0,
+    "ValorConvertido": 3.1448
+  },
+  {
+    "Origem": "USD",
+    "Destino": "BOB",
+    "ValorOriginal": 100.0,
+    "ValorConvertido": 692.92
+  },
+  {
+    "Origem": "USD",
+    "Destino": "BRL",
+    "ValorOriginal": 100.0,
+    "ValorConvertido": 566.2
+  }
+]
